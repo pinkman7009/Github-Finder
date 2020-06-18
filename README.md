@@ -18,7 +18,7 @@ This is a Github Finder which allows you to fetch the Github Profile information
 
 1. HTML5
 2. CSS3
-3. Javacript ( Fetch API has been used to fetch the User data )
+3. Javacript ( Fetch API has been used to fetch the User and Repo data )
 
 # Link to the site :
 https://pinkman7009.github.io/Github-Finder/
