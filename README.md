@@ -21,4 +21,4 @@ This is a Github Finder which allows you to fetch the Github Profile information
 3. Javacript ( Fetch API has been used to fetch the User and Repo data )
 
 # Link to the site :
-https://pinkman7009.github.io/Github-Finder/
+https://elegant-bhabha-5076c7.netlify.app/
