@@ -1,4 +1,4 @@
-class UI {
+export default class UI {
 	// To dynamically show the profile elements
 	showUI(profileDataRepoData) {
 		this.clearAlert();
