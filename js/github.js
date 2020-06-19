@@ -1,7 +1,8 @@
-class Github {
+import * as Config from "./config.js";
+export default class Github {
 	constructor() {
-		this.client_id = 'a7fe8c344fd58bbd816f';
-		this.client_secret = 'c2086f34312821ec244321c50f5d440b5364b6ea';
+		this.client_id = Config.client_id;
+		this.client_secret = Config.client_id;
 	}
 	async getUser(user) {
 		const response1 = await fetch(

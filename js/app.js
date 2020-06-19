@@ -1,3 +1,6 @@
+import Github from "./github.js";
+import UI from "./ui.js";
+
 const github = new Github();
 const ui = new UI();
 const userInput = document.querySelector('#search-bar');
